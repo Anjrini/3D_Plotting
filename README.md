@@ -12,12 +12,13 @@ from matplotlib import cm
 
 ## The Funtion
 
-the function is located in the file named "root.py" and defined as follows:
+the function is located in the file named "3d_plotting.py" and defined as follows:
 ```
-root(x)
+plot_values(x,y,func)
 ```
 where:
-- x: is the number for which we are going to calculate the root
+- x: the range of x on which we are going to create the plot
+- y: the range of y on which we are going to create the plot
 
 
 ## Running the Script

@@ -19,17 +19,23 @@ plot_values(x,y,func)
 where:
 - x: the range of x on which we are going to create the plot
 - y: the range of y on which we are going to create the plot
+- func: the function used using x,y variables in order to get the z values for the plot
 
 
 ## Running the Script
 
 ```
-line28,      root(x)    please change x accordingly to the number you which to calculate the root of
+line 28 to 29:      func(x,y)    please write the function of interest
+line 31: range of x 
+line 32: range of y
+line 36: x,y,z=plot_values(x, y, func) after providing the above values, please run this code in order the values x,y,z for the plot
+line 39 to 49: those are needed for the plot
+line 48: you can the change the elevation angle using [elev] and the rotation angle using [azim]
 ```
 
 ## Exmaple
 
- I have provided an example of root(10) as $$\sqrt{10}$$
+ I have provided an example of the following function $$\sqrt{10}$$
 
 
 ## License

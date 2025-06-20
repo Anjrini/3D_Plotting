@@ -35,7 +35,7 @@ line 48: you can the change the elevation angle using [elev] and the rotation an
 
 ## Exmaple
 
- I have provided an example of the following function $$\sqrt{10}$$
+ I have provided an example of the following function $$x^{3}-6*x*y+y^{3}$$
 
 
 ## License

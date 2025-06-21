@@ -37,6 +37,9 @@ line 48: you can the change the elevation angle using [elev] and the rotation an
 
  I have provided an example of the following function $$x^{3}-6xy +y^{3}$$
 
+ The results are shown in the image below:
+ 
+
 
 ## License
 
